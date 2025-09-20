@@ -239,10 +239,6 @@ const COLORS: Record<Block['type'], string> = {
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🎯 Tips for Solving
 
 1. **Start with the hero block** - understand how it needs to move
